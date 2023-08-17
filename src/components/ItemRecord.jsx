@@ -79,9 +79,13 @@ const ItemRecord = ({ item, setOpenedMatch, openedMatch }) => {
          const equipos = item.invitations_team1.concat(item.invitations_team2);
          const arrayInvit = equipos.filter(
             (invitation) => invitation.toId === user._id
-         );
-         if (!arrayInvit[0]) return;
-         if (arrayInvit[0].status === "accepted") setIsAccepted(true);
+         )
+         if (arrayInvit[0].status === "accepted") {
+            setIsAccepted(true)
+         } 
+         else {
+            setIsAccepted(false)
+         }
       }
     
    }, [item]);
