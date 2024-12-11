@@ -1,6 +1,6 @@
 # ⚽ Match Maker
 
-A mobile app built with Expo to manage competitions, created collaboratively during an internship at Baloon Group. The app supports creating and managing leagues, matches, and player rankings with a focus on seamless user experience.
+A mobile app built with Expo to manage competitions, created collaboratively during an internship at Baloon Group. The app supports creating and managing leagues, matches, and player rankings.
 
 ### Table of Contents
 - [Features](#-features)
@@ -20,7 +20,7 @@ A mobile app built with Expo to manage competitions, created collaboratively dur
 - ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white): State management for efficient data handling.
 - ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white): For making HTTP requests.
 - ![Formik](https://img.shields.io/badge/Formik-FF7F50?style=flat-square&logoColor=white): For handling forms and validation.
-- ![Yup](https://img.shields.io/badge/Yup-FF7F50?style=flat-square&logoColor=white): Schema validation for forms.
+- ![Yup](https://img.shields.io/badge/Yup-FFA500?style=flat-square&logoColor=white): Schema validation for forms.
 - ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white): For styling and UI design.
 
 ### Backend
